@@ -1,7 +1,5 @@
 # Vida Fit: Personal Fitness Tracking Web Application
 
-**Victoria Piroian | University of Toronto: Faculty of Applied Science and Engineering**
-
 ## Description
 Vida Fit is a web-based health and fitness tracking application designed to help users monitor and improve their diet, sleep, and exercise habits. Users can set personal goals, track their progress, and access resources to support healthier lifestyle choices.
 
@@ -56,3 +54,34 @@ Vida Fit addresses the need for accessible health tracking tools for young adult
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/vida-fit.git
+   ```
+2. Open the project in your preferred Java IDE.
+3. Configure the SQL database using the provided .sql file.
+4. Ensure JDBC dependencies are installed.
+5. Run the web application locally and access it via your browser.
+
+## Usage
+1. Navigate to the corresponding pages for Diet, Exercise, Sleep, or Progress.
+2. Use the "+" button to add new entries.
+3. Use the "Edit" button to update or delete entries.
+4. Track progress towards your personal wellness goals over time.
+
+## Testing
+- CRUD operations for each entity (User, Diet, Exercise, Sleep, Progress) were validated through unit tests.
+- Manual testing was conducted via the front-end for operations not fully supported by automated tests.
+- Performance, accessibility, and error rates were evaluated to ensure a user-friendly experience.
+
+## Future Improvements
+- Implement a login page to add security for users.
+- Incorporate a food catalog to reduce manual entry time.
+- Add weekly summaries of user progress and push notifications for motivation.
+- Explore AI/ML functionality for personalized suggestions based on user activity.
+
+---
+
+## Author
+Victoria Piroian
+
+University of Toronto
+
+Faculty of Applied Science & Engineering, 2022
