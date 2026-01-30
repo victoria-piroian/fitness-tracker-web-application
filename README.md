@@ -12,7 +12,6 @@ Vida Fit is a web-based health and fitness tracking application designed to help
 6. [Usage](#usage)
 7. [Testing](#testing)
 8. [Future Improvements](#future-improvements)
-9. [References](#references)
 
 ## Overview
 Vida Fit addresses the need for accessible health tracking tools for young adults, particularly post-secondary students. Users can log meals, exercise, and sleep, while tracking overall progress toward wellness goals. The web app was designed to be intuitive, easy to navigate, and accessible on both laptops and mobile devices.
